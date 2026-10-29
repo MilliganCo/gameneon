@@ -1,7 +1,7 @@
-# GameNeon repository placeholder
+# gameneon — scaffold
 
-This repository currently contains no game source. The functional GameNeon prototype is temporarily stored in:
+Historical project placeholder; implementation is preserved in gameneon-archive.
 
-https://github.com/MilliganCo/gameneon-archive
+Status verified on 2026-10-29. This repository is public for transparency of the original project archive. It must not be presented as completed or functional software.
 
-Planned consolidation: delete this empty placeholder, rename `gameneon-archive` to `gameneon`, then verify links and history. Do not publish this empty repository.
+Implementation archive: https://github.com/MilliganCo/gameneon-archive
